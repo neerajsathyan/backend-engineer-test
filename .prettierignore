@@ -1,0 +1,30 @@
+# Dependencies
+node_modules
+bun.lockb
+
+# Build outputs
+dist
+build
+*.tsbuildinfo
+
+# Logs
+*.log
+
+# Database
+*.db
+*.sqlite
+
+# Docker
+Dockerfile
+docker-compose.yaml
+
+# Git
+.git
+.gitignore
+
+# IDE
+.vscode
+.idea
+
+# OS
+.DS_Store
